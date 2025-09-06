@@ -1,10 +1,6 @@
 # 🚀 Return Zero —  College Hackathon 
-
 ## 🏫 Event : BITS2BYTES 2K25  (BIT College Techfest)
-
----
-
-## 👥 Team: **QUANTUMIX**
+## 👥 TEAM : **QUANTUMIX**
 
 | Role         | Name                 |
 |--------------|----------------------|
