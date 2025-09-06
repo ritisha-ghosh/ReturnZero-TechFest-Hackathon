@@ -1,9 +1,19 @@
-RETURN ZERO
-COLLEGE HACKATHON 
-BITS2BYTES 2K25
+# 🚀 Return Zero —  College Hackathon 
 
-TEAM NAME - QUANTUMIX
-TEAM LEADER - TANISHA ROY
-MEMBER 1 - RITISHA GHOSH
-MEMBER 2 - SHREYA SARKAR
-MEMBER 3 - JAYANTA CHAKRABORTY
+## 🏫 Event : BITS2BYTES 2K25 
+## BIT College Techfest
+
+
+---
+
+## 👥 Team: **QUANTUMIX**
+
+| Role         | Name                 |
+|--------------|----------------------|
+| Team Leader  | Tanisha Roy          |
+| Member 1     | Ritisha Ghosh        |
+| Member 2     | Shreya Sarkar        |
+| Member 3     | Jayanta Chakraborty  |
+
+
+
